@@ -17,4 +17,4 @@ This build is a Windows executable demo.
 
 Grab the latest Windows build from the Releases page.
 
-Unzip it and run `lumenfall.exe`.
+Download and run `lumenfall.exe`.
